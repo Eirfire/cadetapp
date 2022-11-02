@@ -1,0 +1,20 @@
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.navbar {
+  background: rgb(79, 79, 79);
+}
+
+* {
+  box-sizing: border-box;
+}
